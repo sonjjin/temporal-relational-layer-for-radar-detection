@@ -1,0 +1,7 @@
+weights/
+result/
+backup/
+result_img/
+with_no_object/
+transformer/
+__pycache__/
