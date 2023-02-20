@@ -10,9 +10,10 @@ Ubuntu 18.04, Python 3.7.16, PyTorch 1.10.0, OpenCV-Python 4.7.0
 
 # Install
 you have to install Dota_devkit. 
+
 0. go to the Dota_devkit
 ```
-cd datasets/DOTA_devkit
+    cd datasets/DOTA_devkit
 ```
 1. install swig
 ```
